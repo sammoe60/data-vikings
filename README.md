@@ -13,7 +13,8 @@
 - Sam Moe
 
 ## Contents:
-- #### Dashboards
+- #### [Dashboards](https://github.com/sammoe60/data-vikings/tree/main/Dashboards)
+
   -  
 - #### Database
 - #### Documentation
