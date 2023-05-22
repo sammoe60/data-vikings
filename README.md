@@ -7,8 +7,6 @@
   - c
   - d
 
-- Our team has set out to determine some of the reasons why this could be, most notably why poverty rates have not decreased relative to increases in income in recent years.
-
 ## Collaborators:
 - Kendra Johnson
 - Jake Uhl
@@ -16,7 +14,26 @@
 
 ## Contents:
 - #### Dashboards
+  -  
 - #### Database
 - #### Documentation
 - #### Jupyter-Notebooks
 - ####
+
+## Contributions:
+
+#### Kendra Johnson:
+- a
+- b
+- c
+
+#### Jake Uhl:
+- a
+- b
+- c
+
+#### Sam Moe:
+- a
+- b
+- c
+
