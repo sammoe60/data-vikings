@@ -14,12 +14,12 @@
 
 ## Contents:
 - #### [Dashboards](https://github.com/sammoe60/data-vikings/tree/main/Dashboards)
-
-  -  
-- #### Database
-- #### Documentation
-- #### Jupyter-Notebooks
-- ####
+- #### [Database](https://github.com/sammoe60/data-vikings/tree/main/Database)
+- #### [Documentation](https://github.com/sammoe60/data-vikings/tree/main/Documentation)
+- #### [Jupyter-Notebooks](https://github.com/sammoe60/data-vikings/tree/main/Jupyter-Notebooks)
+- #### [Machine-Learning](https://github.com/sammoe60/data-vikings/tree/main/Machine-Learning)
+- #### [Processed-CSVs](https://github.com/sammoe60/data-vikings/tree/main/Processed-CSVs)
+- #### [Raw-Data](https://github.com/sammoe60/data-vikings/tree/main/Raw-Data)
 
 ## Contributions:
 
