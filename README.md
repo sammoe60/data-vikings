@@ -22,10 +22,14 @@ This project takes a brief look into employment and poverty with the analysis be
 - #### [Dashboards](https://github.com/sammoe60/data-vikings/tree/main/Dashboards)
   - Power BI Dashboard containing analysis and visualizations of findings
 - #### [Database](./Database)
-  - 
-  - Python notebook containing steps for loading data into the database
+  - Entity Relationship Diagram (ERD)
+  - Jupyter Notebook containing the code to load data into our database
+  - SQL file containing code to create our tables in our database
 - #### [Documentation](https://github.com/sammoe60/data-vikings/tree/main/Documentation)
-- #### [Jupyter-Notebooks](https://github.com/sammoe60/data-vikings/tree/main/Jupyter-Notebooks)
+- #### [Jupyter-Notebooks](./Jupyter-Notebooks)
+  - Python files containing code demonstrating the use of Kafka (consumer / producer)
+  - Jupyter Notebook containing code for our Exploratory Data Analysis (EDA)
+  - Jupyter Notebook containing code for our Extract Transform Load (ETL) process 
 - #### [Machine-Learning](https://github.com/sammoe60/data-vikings/tree/main/Machine-Learning)
 - #### [Processed-CSVs](https://github.com/sammoe60/data-vikings/tree/main/Processed-CSVs)
 - #### [Raw-Data](https://github.com/sammoe60/data-vikings/tree/main/Raw-Data)
