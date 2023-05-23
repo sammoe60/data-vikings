@@ -1,6 +1,8 @@
-# Comparing Income and Poverty In The United States
+# Employment & Poverty in the United States
 
-## Description:
+## Abstract:
+
+
 - Poverty and income rates are two of the most common statistics used to gauge the proprity of countries, but have you ever noticed that increases in income don't necessarily lead to decreases in poverty? Our team has set out to determine some of the reasons this could be happening, as well as answer the following questions:
   - a
   - b
