@@ -2,12 +2,16 @@
 
 ## Abstract:
 
-
-- Poverty and income rates are two of the most common statistics used to gauge the proprity of countries, but have you ever noticed that increases in income don't necessarily lead to decreases in poverty? Our team has set out to determine some of the reasons this could be happening, as well as answer the following questions:
-  - a
-  - b
-  - c
-  - d
+This project takes a brief look into employment and poverty with the analysis being broken down at three different levels: national, state and county. While both topics are analyzed separately, we do attempt to look at any possible relationships between the two as well. After carefull analyzation of all our data, we were able to answer the following questions:
+- National Level:
+  1. Question 1
+  2. Question 2
+- State Level:
+  1. Question 1
+  2. Question 2
+- County Level:
+  1. Question 1
+  2. Question 2 
 
 ## Collaborators:
 - Kendra Johnson
