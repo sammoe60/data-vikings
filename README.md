@@ -21,8 +21,8 @@ This project takes a brief look into employment and poverty with the analysis be
 ## Contents:
 - #### [Dashboards](https://github.com/sammoe60/data-vikings/tree/main/Dashboards)
   - Power BI Dashboard containing analysis and visualizations of findings
-- #### [Database](https://github.com/sammoe60/data-vikings/tree/main/Database)
-  - [schema.sql](https://github.com/sammoe60/data-vikings/blob/main/Database/creating_tables_for_database.sql)SQL file containing schema for our database
+- #### [Database](./Database)
+  - 
   - Python notebook containing steps for loading data into the database
 - #### [Documentation](https://github.com/sammoe60/data-vikings/tree/main/Documentation)
 - #### [Jupyter-Notebooks](https://github.com/sammoe60/data-vikings/tree/main/Jupyter-Notebooks)
