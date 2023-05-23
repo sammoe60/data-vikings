@@ -49,7 +49,8 @@ This project takes a brief look into employment and poverty with the analysis be
 
 #### Sam Moe:
 - Analysis of employment and poverty at the state level
-- Dashboard Creation and Formatting
+- Machine learning (random forest regression to predict poverty levels)
+- Dashboard creation and formatting
 
 ## Sources
 - https://www.bls.gov/oes/tables.htm
