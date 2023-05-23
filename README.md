@@ -19,13 +19,12 @@ This project takes a brief look into employment and poverty with the analysis be
 - Sam Moe
 
 ## Contents:
-- #### [Dashboards](https://github.com/sammoe60/data-vikings/tree/main/Dashboards)
-  - Power BI Dashboard containing analysis and visualizations of findings
+- #### [Dashboard](./Dashboards)
+  - Screen shots of the Power BI dashboard created to visualizae our findings
 - #### [Database](./Database)
   - Entity Relationship Diagram (ERD)
   - Jupyter Notebook containing the code to load data into our database
   - SQL file containing code to create our tables in our database
-- #### [Documentation](https://github.com/sammoe60/data-vikings/tree/main/Documentation)
 - #### [Jupyter-Notebooks](./Jupyter-Notebooks)
   - Python files containing code demonstrating the use of Kafka (consumer / producer)
   - Jupyter Notebook containing code for our Exploratory Data Analysis (EDA)
@@ -42,17 +41,19 @@ This project takes a brief look into employment and poverty with the analysis be
 ## Contributions:
 
 #### Kendra Johnson:
-- a
-- b
-- c
+- Analysis of employment and poverty at the county level
 
 #### Jake Uhl:
-- a
-- b
-- c
+- Analysis of employment and poverty at the national level
+- SQL database design
 
 #### Sam Moe:
-- a
-- b
-- c
+- Analysis of employment and poverty at the state level
+- Dashboard Createion
 
+## Sources
+- https://www.bls.gov/oes/tables.htm
+- https://apps.deed.state.mn.us/lmi/laus/Default.aspx
+- https://www.census.gov/data/developers/data-sets/Poverty-Statistics.html
+- https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines
+- https://simplemaps.com/data/us-counties
