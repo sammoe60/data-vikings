@@ -2,7 +2,7 @@
 
 ## Abstract:
 
-This project takes a brief look into employment and poverty with the analysis being broken down at three different levels: national, state and county. While both topics are analyzed separately, we do attempt to look at any possible relationships between the two as well. After carefull analyzation of all our data, we were able to answer the following questions:
+In recent years, increases in income levels in The United States have not led to proportional decreases in poverty. How could this be? This project takes a brief look into employment and poverty with the analysis being broken down at three different levels: national, state and county. While both topics are analyzed separately, we do attempt to look at any possible relationships between the two as well. After carefull analyzation of all our data, we were able to answer the following questions:
 - National Level:
   1. How has the poverty rate changed over time?
   2. How does annual median income compare to the poverty threshold over time?
