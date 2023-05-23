@@ -49,7 +49,7 @@ This project takes a brief look into employment and poverty with the analysis be
 
 #### Sam Moe:
 - Analysis of employment and poverty at the state level
-- Dashboard Createion
+- Dashboard Creation and Formatting
 
 ## Sources
 - https://www.bls.gov/oes/tables.htm
