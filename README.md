@@ -45,6 +45,8 @@ This project takes a brief look into employment and poverty with the analysis be
 
 #### Kendra Johnson:
 - Analysis of employment and poverty at the county level
+- Machine learning (XGBoost regression to predict poverty levels)
+- Kafka producer & consumer
 
 #### Jake Uhl:
 - Analysis of employment and poverty at the national level
