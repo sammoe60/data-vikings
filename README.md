@@ -15,6 +15,10 @@ In recent years, increases in income levels in The United States have not led to
   1. Is there a correlation between income and poverty rate?
   2. Is there a correlation between unemployment and poverty rate? 
 
+![Map](https://github.com/sammoe60/data-vikings/blob/main/Documentation/poverty_rates_and_population_us_map.png?raw=true
+)
+
+
 
 ## Collaborators:
 - Kendra Johnson
