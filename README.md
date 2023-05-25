@@ -3,6 +3,7 @@
 ## Abstract:
 
 In recent years, increases in income levels in The United States have not led to proportional decreases in poverty. How could this be? This project takes a brief look into employment and poverty with the analysis being broken down at three different levels: national, state and county. While both topics are analyzed separately, we do attempt to look at any possible relationships between the two as well. After carefull analyzation of all our data, we were able to answer the following questions:
+
 - National Level:
   1. How has the poverty rate changed over time?
   2. How does annual median income compare to the poverty threshold over time?
@@ -15,10 +16,7 @@ In recent years, increases in income levels in The United States have not led to
   1. Is there a correlation between income and poverty rate?
   2. Is there a correlation between unemployment and poverty rate? 
 
-![Map](https://github.com/sammoe60/data-vikings/blob/main/Documentation/poverty_rates_and_population_us_map.png?raw=true
-)
-
-
+![Map](https://github.com/sammoe60/data-vikings/blob/main/Documentation/poverty_rates_and_population_us_map.png?raw=true)
 
 ## Collaborators:
 - Kendra Johnson
@@ -26,7 +24,7 @@ In recent years, increases in income levels in The United States have not led to
 - Sam Moe
 
 ## Contents:
-- #### [Dashboard](./Dashboards)
+- #### [Dashboard](./Dashboard)
   - Screen shots of the Power BI dashboard created to visualizae our findings
 - #### [Database](./Database)
   - Entity Relationship Diagram (ERD)
@@ -42,7 +40,7 @@ In recent years, increases in income levels in The United States have not led to
   - A CSV file that contains the data used to generate the model
 - #### [Processed-CSVs](./Processed-CSVs)
   - All CSVs post Extraction and Transformation 
-- #### [Raw-Data](https://github.com/sammoe60/data-vikings/tree/main/Raw-Data)
+- #### [Raw-Data](./Raw-Data)
   - Downloaded files from websites that have yet to undergo the ETL process 
 
 ## Contributions:
